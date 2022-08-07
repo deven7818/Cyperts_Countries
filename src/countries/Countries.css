@@ -1,0 +1,19 @@
+.mainhome{
+    width: 100vw;
+    height: 100vh;
+}
+
+.countryDetails{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detailsInfo{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
